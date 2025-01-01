@@ -104,6 +104,7 @@ If you think this is helpful **Please give a Star ⭐️**.
 
 ## Archives
 
+- [The Teletext Archive](https://www.teletextarchive.com/)
 - https://al.zerostem.io/~al/teletext/
 - https://archive.teletextart.co.uk/
 - [Archive.org#teletext-archive](https://archive.org/search?query=subject%3A%22teletext-archive%22)
