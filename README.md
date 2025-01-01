@@ -75,10 +75,12 @@ If you think this is helpful **Please give a Star ⭐️**.
 
 - [ttxWeb](https://github.com/fabianswebworld/ttxweb)
 
-### Android
+### Mobile
 
-- [TxtVideo Teletext](https://play.google.com/store/apps/details?id=it.giccisw.tt2&hl=de)
+- [Android App: TxtVideo Teletext](https://play.google.com/store/apps/details?id=it.giccisw.tt2&hl=de)
 - [Android App: aText-TV - Videotext](https://play.google.com/store/apps/details?id=com.harjuconsulting.texttv&hl=de)
+- [Apple: Teletext - Videotext](https://apps.apple.com/de/app/teletext-videotext/id317642402)
+- [Apple: TELETEXT](https://apps.apple.com/de/app/teletext/id308630240)
 
 ### Art and Projects
 
@@ -103,6 +105,7 @@ If you think this is helpful **Please give a Star ⭐️**.
 ## Archives
 
 - https://al.zerostem.io/~al/teletext/
+- https://archive.teletextart.co.uk/
 - [Archive.org#teletext-archive](https://archive.org/search?query=subject%3A%22teletext-archive%22)
 
 ### Contributing
