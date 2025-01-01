@@ -19,6 +19,7 @@ If you think this is helpful **Please give a Star ⭐️**.
   - [Android](#android)
   - [Art and Projects](#art-and-projects)
 - [Articles and Lectures](#articles-and-lectures)
+- [Archives](#archives)
 
 ## General Information
 
@@ -67,6 +68,7 @@ If you think this is helpful **Please give a Star ⭐️**.
 - [teletext_ng](https://github.com/Casandro/teletext_ng)
 - [Command line reader for Swedish text tv](https://github.com/voidcase/txtv)
 - [Command line reader for Dutch NOS Teletekst](https://codeberg.org/sjmulder/nostt)
+- [Software to recover teletext data from VHS recordings](https://github.com/ali1234/vhs-teletext)
 
 ### Teletext parser and Viewer
 
@@ -89,6 +91,11 @@ If you think this is helpful **Please give a Star ⭐️**.
 - [📹 Teletext: A digital medium transcending a factor of 10⁶ in technical progress](https://media.ccc.de/v/retronetcall-20230705-casandro-teletext)
 - [📹 Die Technik hinter Teletext](https://media.ccc.de/v/fire-shonks-2022-49077-die-technik-hinter-teletext)
 - [📹 Teletex: The brief abandoned step between Telex and Telefax](https://media.ccc.de/v/retronetcall-20230607-laforge-teletex)
+
+## Archives
+
+- https://al.zerostem.io/~al/teletext/
+- [Archive.org#teletext-archive](https://archive.org/search?query=subject%3A%22teletext-archive%22)
 
 ### Contributing
 
