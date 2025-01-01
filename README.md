@@ -17,6 +17,7 @@ If you think this is helpful **Please give a Star ⭐️**.
   - [Germany](#germany)
 - [Apps an tools](#apps-an-tools)
   - [Android](#android)
+- [Articles and Lectures](#articles-and-lectures)
 
 ## General Information
 
