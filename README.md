@@ -17,6 +17,7 @@ If you think this is helpful **Please give a Star ⭐️**.
   - [Germany](#germany)
 - [Apps an tools](#apps-an-tools)
   - [Android](#android)
+  - [Art and Projects](#art-and-projects)
 - [Articles and Lectures](#articles-and-lectures)
 
 ## General Information
@@ -75,6 +76,11 @@ If you think this is helpful **Please give a Star ⭐️**.
 
 - [TxtVideo Teletext](https://play.google.com/store/apps/details?id=it.giccisw.tt2&hl=de)
 - [Android App: aText-TV - Videotext](https://play.google.com/store/apps/details?id=com.harjuconsulting.texttv&hl=de)
+
+### Art and Projects
+
+- [A Vue.js app that renders RSS News as a teletext service.](https://github.com/glynnbird/teletext)
+- [Play DOOM in teletext](https://github.com/lukneu/doom-teletext)
 
 ## Articles and Lectures
 
