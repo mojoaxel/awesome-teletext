@@ -100,7 +100,7 @@ If you think this is helpful **Please give a Star ⭐️**.
 - [📹 An Introduction to Teletext — Christian Berger](https://www.youtube.com/watch?v=ITQkgM9AihE)
 - [📹 Teletext: A digital medium transcending a factor of 10⁶ in technical progress](https://media.ccc.de/v/retronetcall-20230705-casandro-teletext)
 - [📹 Die Technik hinter Teletext](https://media.ccc.de/v/fire-shonks-2022-49077-die-technik-hinter-teletext)
-- [📹 Teletex: The brief abandoned step between Telex and Telefax](https://media.ccc.de/v/retronetcall-20230607-laforge-teletex)
+- [📹 Text, Lines and Videotape - Recovering Teletext from VHS Tapes](https://www.youtube.com/watch?v=Vy23geJFMUQ)
 
 ## Archives
 
