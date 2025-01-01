@@ -12,10 +12,17 @@ If you think this is helpful **Please give a Star ⭐️**.
 
 ## Contents
 
+- [General Information](#general-information)
 - [View Teletext Online](#view-teletext-online)
   - [Germany](#germany)
 - [Apps an tools](#apps-an-tools)
   - [Android](#android)
+
+## General Information
+
+- [Wikipedia: Teletext](https://en.wikipedia.org/wiki/Teletext)
+- [Teletext wiki](https://teletext.wiki.zxnet.co.uk/wiki/)
+- [Teletext Art](https://telenft.art/)
 
 ## View Teletext Online
 
@@ -23,20 +30,58 @@ If you think this is helpful **Please give a Star ⭐️**.
 
 - [3sat](https://teletext.zdf.de/teletext/3sat/)
 - [ARD](https://www.ard-text.de/)
-  - []
-- [BR](https://www.br.de/fernsehen/brtext/brtext-100.html)
+- [BR - Bayerischer Rundfunk](https://www.br.de/fernsehen/brtext/brtext-100.html)
+- [HR - Hessischer Rundfunk](https://www.hr-text.hr-fernsehen.de/ttxweb/)
+- [NDR - Norddeutscher Rundfunk](https://www.ndr.de/fernsehen/videotext/)
+  - [NDR rendered as html](https://www.ndr.de/public/teletext/100_01.htm)
+- [ntv](https://www.n-tv.de/mediathek/teletext/)
+- [SR - Saarländischer Rundfunk](https://saartext.de/)
+- [WDR - Westdeutscher Rundfunk](https://www1.wdr.de/wdrtext/index.html)
 - [ZDF](https://teletext.zdf.de/teletext/zdf/)
-  - [ZDF html](https://teletext.zdf.de/teletext/zdfinfo/seiten/klassisch/100.html)
-  - [ZDF mobile](https://teletext.zdf.de/teletext/zdfinfo/mobil.php)
+  - [ZDF rendered as html](https://teletext.zdf.de/teletext/zdfinfo/seiten/klassisch/100.html)
+  - [ZDF mobile web](https://teletext.zdf.de/teletext/zdfinfo/mobil.php)
+
+### Austria
+
+- [ORF 1](https://teletext.orf.at/channel/orf1/page/100/1)
+- [ORF 2](https://teletext.orf.at/channel/orf2/page/100/1)
+- [ORF III](https://teletext.orf.at/channel/orfiii/page/100/1)
+- [ORF Sport](https://teletext.orf.at/channel/sportplus/page/100/1)
+
+### Switzerland
+
+- [SRF 1](https://www.teletext.ch/SRF1/)
+- [SRF Zwei](https://www.teletext.ch/SRFzwei/)
+- [SRF Info](https://www.teletext.ch/SRFInfo/)
+- [RTS Un](https://www.teletext.ch/RTSUn)
+- [RTS Deux](https://www.teletext.ch/RTSDeux)
+- [RSI LA 1](https://www.teletext.ch/RSILA1/)
+- [RSI LA 2](https://www.teletext.ch/RSILA2/)
 
 ## Apps an tools
 
+### Command line
+
 - [teletext_ng](https://github.com/Casandro/teletext_ng)
+- [Command line reader for Swedish text tv](https://github.com/voidcase/txtv)
+- [Command line reader for Dutch NOS Teletekst](https://codeberg.org/sjmulder/nostt)
+
+### Teletext parser and Viewer
+
+- [ttxWeb](https://github.com/fabianswebworld/ttxweb)
 
 ### Android
 
 - [TxtVideo Teletext](https://play.google.com/store/apps/details?id=it.giccisw.tt2&hl=de)
 - [Android App: aText-TV - Videotext](https://play.google.com/store/apps/details?id=com.harjuconsulting.texttv&hl=de)
+
+## Articles and Lectures
+
+- [📄 Blog by Frederic Cambus](https://www.cambus.net/categories/teletext/)
+- [📹 An Introduction to Teletext — Christian Berger](https://www.youtube.com/watch?v=ITQkgM9AihE)
+- [📹 Teletext: A digital medium transcending a factor of 10⁶ in technical progress](https://media.ccc.de/v/retronetcall-20230705-casandro-teletext)
+- [📹 Die Technik hinter Teletext](https://media.ccc.de/v/fire-shonks-2022-49077-die-technik-hinter-teletext)
+- [📹 Teletex: The brief abandoned step between Telex and Telefax](https://media.ccc.de/v/retronetcall-20230607-laforge-teletex)
 
 ### Contributing
 
