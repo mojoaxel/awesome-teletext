@@ -227,6 +227,7 @@ If you think this is helpful **Please give a Star ⭐️**.
 - https://al.zerostem.io/~al/teletext/
 - https://archive.teletextart.co.uk/
 - [Archive.org#teletext-archive](https://archive.org/search?query=subject%3A%22teletext-archive%22)
+- [Computer-legacy - Teletext Recovery Work](https://computer-legacy.com/teletext.html)
 
 ## Miscellaneous
 
