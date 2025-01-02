@@ -21,6 +21,10 @@ If you think this is helpful **Please give a Star ⭐️**.
   - [Online Editors](#online-editors)
 - [Articles and Lectures](#articles-and-lectures)
 - [Archives](#archives)
+- [Miscellaneous](#miscellaneous)
+  - [Contributing](#contributing)
+  - [Code of Conduct](#code-of-conduct)
+  - [License](#license)
 
 ## General Information
 
@@ -110,6 +114,8 @@ If you think this is helpful **Please give a Star ⭐️**.
 - https://al.zerostem.io/~al/teletext/
 - https://archive.teletextart.co.uk/
 - [Archive.org#teletext-archive](https://archive.org/search?query=subject%3A%22teletext-archive%22)
+
+## Miscellaneous
 
 ### Contributing
 
