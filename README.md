@@ -70,10 +70,12 @@ If you think this is helpful **Please give a Star ⭐️**.
 - [Command line reader for Swedish text tv](https://github.com/voidcase/txtv)
 - [Command line reader for Dutch NOS Teletekst](https://codeberg.org/sjmulder/nostt)
 - [Software to recover teletext data from VHS recordings](https://github.com/ali1234/vhs-teletext)
+- [](https://github.com/peterkvt80/vbit2)
 
 ### Teletext parser and Viewer
 
 - [ttxWeb](https://github.com/fabianswebworld/ttxweb)
+- [Software to recover teletext data from VHS recordings.](https://github.com/ali1234/vhs-teletext)
 
 ### Mobile
 
