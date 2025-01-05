@@ -178,7 +178,8 @@ If you think this is helpful **Please give a Star ⭐️**.
 - [Command line reader for Swedish text tv](https://github.com/voidcase/txtv)
 - [Command line reader for Dutch NOS Teletekst](https://codeberg.org/sjmulder/nostt)
 - [Software to recover teletext data from VHS recordings](https://github.com/ali1234/vhs-teletext)
-- [](https://github.com/peterkvt80/vbit2)
+- [vbit2 - Generates a T42 teletext stream from teletext pages.](https://github.com/peterkvt80/vbit2)
+- [TtxFromTS - Decodes teletext pages from DVB transport streams](https://github.com/orryverducci/TtxFromTS)
 
 ### Teletext parser and Viewer
 
@@ -205,6 +206,8 @@ If you think this is helpful **Please give a Star ⭐️**.
 
 - [A Vue.js app that renders RSS News as a teletext service.](https://github.com/glynnbird/teletext)
 - [Play DOOM in teletext.](https://github.com/lukneu/doom-teletext)
+- [A teletext to plain text converter and viewer - the Twitter of editorial news](https://github.com/girst/ttxd-mirror-of-git.gir.st)
+- [ttxweb - Teletext-to-HTML Generator](https://github.com/fabianswebworld/ttxweb)
 
 ### Online Editors
 
