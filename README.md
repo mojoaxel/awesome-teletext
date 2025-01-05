@@ -223,6 +223,7 @@ If you think this is helpful **Please give a Star ⭐️**.
 - [📹 Teletext: A digital medium transcending a factor of 10⁶ in technical progress](https://media.ccc.de/v/retronetcall-20230705-casandro-teletext)
 - [📹 Die Technik hinter Teletext](https://media.ccc.de/v/fire-shonks-2022-49077-die-technik-hinter-teletext)
 - [📹 Text, Lines and Videotape - Recovering Teletext from VHS Tapes](https://www.youtube.com/watch?v=Vy23geJFMUQ)
+- [📄 Parsing DVB-T/S/C Teletext into plain text](https://www.isticktoit.net/?p=1800)
 
 ## Archives
 
