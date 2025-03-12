@@ -119,9 +119,13 @@ If you think this is helpful **Please give a Star ⭐️**.
 - [KABEL 1 AT](https://som-teletextviewer.sim-technik.de/tius/teletextviewer/desk.php?pagnr=100_01&ttx_select=k1at)
 - [KABEL1 DOKU AT](https://som-teletextviewer.sim-technik.de/tius/teletextviewer/desk.php?pagnr=100_01&ttx_select=k1dokuat)
 - [ORF 1](https://teletext.orf.at/channel/orf1/page/100/1) ⛔
+- [ORF 1 - rendered as html](https://text.orf.at/channel/orf1/page/100/1.html) 📄⛔
 - [ORF 2](https://teletext.orf.at/channel/orf2/page/100/1) ⛔
+- [ORF 2 - rendered as html](https://text.orf.at/channel/orf2/page/100/1.html) 📄⛔
 - [ORF III](https://teletext.orf.at/channel/orfiii/page/100/1)
+- [ORF III - rendered as html](https://text.orf.at/channel/orfiii/page/100/1.html) 📄
 - [ORF Sport+](https://teletext.orf.at/channel/sportplus/page/100/1)
+- [ORF Sport+ - rendered as html](https://text.orf.at/channel/sportplus/page/100/1.html) 📄
 - [PRO7 AT](https://som-teletextviewer.sim-technik.de/tius/teletextviewer/desk.php?pagnr=100_01&ttx_select=p7at)
 - [PRO7 MAXX AT](https://som-teletextviewer.sim-technik.de/tius/teletextviewer/desk.php?pagnr=100_01&ttx_select=p7maxxat)
 - [SAT.1 AT](https://som-teletextviewer.sim-technik.de/tius/teletextviewer/desk.php?pagnr=100_01&ttx_select=s1at)
