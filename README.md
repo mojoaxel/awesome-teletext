@@ -55,16 +55,16 @@ If you think this is helpful **Please give a Star ⭐️**.
 
 ### Germany
 
-- [3sat](https://teletext.zdf.de/teletext/3sat/)
-- [ARD - mobile webapp](https://www.ard-text.de/mobil/100)
-- [ARD](https://www.ard-text.de/)
+- [3sat](https://teletext.zdf.de/teletext/3sat/) 📄
+- [ARD - mobile webapp](https://www.ard-text.de/mobil/100) 📄
+- [ARD](https://www.ard-text.de/) 📄
 - [BR Bayerischer Rundfunk](https://www.br.de/fernsehen/brtext/brtext-100.html)
-- [HR Hessischer Rundfunk](https://www.hr-text.hr-fernsehen.de/ttxweb/)
+- [HR Hessischer Rundfunk](https://www.hr-text.hr-fernsehen.de/ttxweb/) 📄
 - [Kabel1 Doku](https://som-teletextviewer.sim-technik.de/tius/teletextviewer/desk.php?pagnr=100_01&ttx_select=k1doku) 📷
 - [Kabel1](https://som-teletextviewer.sim-technik.de/tius/teletextviewer/desk.php?pagnr=100_01&ttx_select=k1de) 📷
 - [KiKA](https://www.kika.de/eltern/kika-text/index.html#100_0001.htm) 📷
 - [NDR - rendered as html](https://www.ndr.de/public/teletext/100_01.htm) 📄
-- [NDR Norddeutscher Rundfunk](https://www.ndr.de/fernsehen/videotext/)
+- [NDR Norddeutscher Rundfunk](https://www.ndr.de/fernsehen/videotext/) ⛔
 - [ntv](https://www.n-tv.de/mediathek/teletext/)
 - [PRO7 MAXX](https://som-teletextviewer.sim-technik.de/tius/teletextviewer/desk.php?pagnr=100_01&ttx_select=p7maxx) 📷
 - [PRO7](https://som-teletextviewer.sim-technik.de/tius/teletextviewer/desk.php?pagnr=100_01&ttx_select=p7de) 📷
@@ -72,9 +72,10 @@ If you think this is helpful **Please give a Star ⭐️**.
 - [SAT.1 GOLD](https://som-teletextviewer.sim-technik.de/tius/teletextviewer/desk.php?pagnr=100_01&ttx_select=s1gold) 📷
 - [SAT.1](https://som-teletextviewer.sim-technik.de/tius/teletextviewer/desk.php?pagnr=100_01&ttx_select=s1de) 📷
 - [SIXX](https://som-teletextviewer.sim-technik.de/tius/teletextviewer/desk.php?pagnr=100_01&ttx_select=sixx) 📷
-- [SR Saarländischer Rundfunk](https://saartext.de/)
-- [SWR Baden-Württemberg](https://wraps.swr.de/videotext/?stream=bw) 📷
-- [SWR Rheinland-Pfalz](https://wraps.swr.de/videotext/?stream=rp) 📷
+- [SR Saarländischer Rundfunk](https://saartext.de/) 📄
+- [SWR - html rendering with keyboard navigation](https://wraps.swr.de/videotext/?stream=bw&template=embed-flex) 📄
+- [SWR Baden-Württemberg](https://wraps.swr.de/videotext/?stream=bw) 📄
+- [SWR Rheinland-Pfalz](https://wraps.swr.de/videotext/?stream=rp) 📄
 - [Tele5](https://som-teletextviewer.sim-technik.de/tius/teletextviewer/desk.php?pagnr=100_01&ttx_select=tele5) 📷
 - [WDR - mobile webapp](http://mobiltext.wdr.de/100.html) 📄
 - [WDR Westdeutscher Rundfunk](http://www1.wdr.de/wdrtext/) 📄
