@@ -233,6 +233,7 @@ If you think this is helpful **Please give a Star ⭐️**.
 - [Archive.org#teletext-archive](https://archive.org/search?query=subject%3A%22teletext-archive%22)
 - [Computer-legacy - Teletext Recovery Work](https://computer-legacy.com/teletext.html)
 - [Github - teletext-restoration](https://github.com/teletext-restoration/teletext-restoration)
+- [TVR Teletext Archive (Romania)](https://github.com/alxcrt/tvr-teletext-archive) - Original DVB-T2 recordings, raw T42 packets, page versions and reception metadata.
 
 ## Miscellaneous
 
